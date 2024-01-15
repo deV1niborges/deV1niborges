@@ -1,5 +1,5 @@
 ## Bem-vindo ao meu espaço virtual! 👋
-- Olá, sou Vinicius, e este é o meu cantinho no GitHub, onde compartilho um pouco do que sou e do que gosto de fazer. Aqui, você encontrará um mix de paixões que me definem além do código.
+Olá, sou Vinicius, e este é o meu cantinho no GitHub, onde compartilho um pouco do que sou e do que gosto de fazer. Aqui, você encontrará um mix de paixões que me definem além do código.
 
 - 🌱 Hoje em dia estudo front-end, explorando esse mundão de códigos e design...
 - 🚀 Nos momentos em que não estou chutando uma bola no campo, estou no jogos online , os jogos são a minha outra paixão além do futebol.
