@@ -1,9 +1,11 @@
-## Eai pessoal, Vinicius aqui!
+## Bem-vindo ao meu espaço virtual! 👋
+Olá, sou Vinicius, e este é o meu cantinho no GitHub, onde compartilho um pouco do que sou e do que gosto de fazer. Aqui, você encontrará um mix de paixões que me definem além do código.
 
 - 🌱 Hoje em dia estudo front-end, explorando esse mundão de códigos e design...
+- 🚀 Nos momentos em que não estou chutando uma bola no campo, estou mergulhando em mundos virtuais por meio dos jogos online. Estratégia, aventura, competição – os jogos são a minha outra paixão além do futebol.
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deV1niborges)](https://github.com/deV1niborges/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deV1niborges&showicons=true&theme=github_dark)](https://github.com/deV1niborges/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
