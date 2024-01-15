@@ -5,6 +5,7 @@ Olá sou o Vinicius, tenho 19 anos e este é o meu cantinho no GitHub, onde comp
 - 🚀 Nos momentos em que não estou chutando uma bola no campo, estou no jogos online , os jogos são a minha outra paixão além do futebol.
 
 ##
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deV1niborges&showicons=true&theme=github_dark)](https://github.com/deV1niborges/github-readme-stats)
 
 <div style="display: inline_block"><br>
