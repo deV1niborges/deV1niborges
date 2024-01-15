@@ -5,8 +5,10 @@ Olá sou o Vinicius, tenho 19 anos e este é o meu cantinho no GitHub, onde comp
 - 🚀 Nos momentos em que não estou chutando uma bola no campo, estou no jogos online , os jogos são a minha outra paixão além do futebol.
 
 ##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deV1niborges&showicons=true&theme=github_dark)](https://github.com/deV1niborges/github-readme-stats)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=deV1niborges&show_icons=true&theme=github_dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deV1niborges&layout=compact&theme=github_dark" height="180" />
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
