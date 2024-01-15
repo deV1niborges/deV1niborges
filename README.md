@@ -2,7 +2,7 @@
 Olá sou o Vinicius, tenho 19 anos e este é o meu cantinho no GitHub, onde compartilho um pouco do que sou e do que gosto de fazer. Aqui, você encontrará um mix de paixões que me definem além do código.
 
 - 🌱 Hoje em dia estudo front-end, explorando esse mundão de códigos e design...
-- 🚀 Nos momentos em que não estou chutando uma bola no campo, estou no jogos online , os jogos são a minha outra paixão além do futebol.
+- 🚀 Nos momentos em que não estou chutando uma bola no campo, estou nos jogos online, os jogos são a minha outra paixão além do futebol.
 
 ##
 <p align="left">
@@ -17,10 +17,4 @@ Olá sou o Vinicius, tenho 19 anos e este é o meu cantinho no GitHub, onde comp
 </div>
 
 ##
-<img align="center" height="400" width="500px" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-
-
-
-
-
-
+<img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" style="max-width: 100; height: auto;">
