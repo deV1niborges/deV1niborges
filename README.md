@@ -6,8 +6,8 @@ Olá sou o Vinicius, tenho 19 anos e este é o meu cantinho no GitHub, onde comp
 
 ##
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=deV1niborges&show_icons=true&theme=github_dark" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deV1niborges&layout=compact&theme=github_dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deV1niborges&show_icons=true&theme=github_dark" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deV1niborges&layout=compact&theme=github_dark" height="170" />
 </p>
 
 <div style="display: inline_block"><br>
