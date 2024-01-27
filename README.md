@@ -17,4 +17,6 @@ Olá sou o Vinicius, tenho 19 anos e este é o meu cantinho no GitHub, onde comp
 </div>
 
 ##
-<img align="center" src="https://media.giphy.com/media/dH2wuqAUc2nE3LDr4T/giphy.gif" alt="Imagem" style="max-width: 100; height: auto;">
+##
+<img align="center" src="https://media.giphy.com/media/dH2wuqAUc2nE3LDr4T/giphy.gif" alt="Imagem" class="img-fluid" style="max-width: 100; height: auto;">
+
