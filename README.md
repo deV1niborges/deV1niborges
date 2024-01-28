@@ -17,4 +17,4 @@ Olá sou o Vinicius, tenho 19 anos e este é o meu cantinho no GitHub, onde comp
 </div>
 
 ##
-<img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" style="max-width: 100; height: auto;">
+<img align="center" src="https://github.com/deV1niborges/deV1niborges/assets/138510552/9cbfb181-e811-43b5-bb51-2eced102cd07" alt="Imagem" height="600px" width="900px">
