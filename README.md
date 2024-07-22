@@ -1,5 +1,5 @@
-## Bem-vindo ao meu espaço virtual! 👋
-Olá sou o Vinicius, tenho 20 anos e este é o meu cantinho no GitHub.
+## Bem-vindo ao meu GITHUB! 👋
+Prazer Vinicius, se tiver algum acréscimo a fazer nos meus códigos será muito bem-vindo.
 
 ##
 <p align="left">
