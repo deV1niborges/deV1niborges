@@ -1,5 +1,5 @@
 ## Bem-vindo ao meu GITHUB! 👋
-Prazer Vinicius, se tiver algum acréscimo a fazer nos meus códigos será muito bem-vindo.
+Prazer Vinicius, se tiver algum acréscimo a fazer nos meus códigos será muito bem-vindo(a).
 
 ##
 <p align="left">
