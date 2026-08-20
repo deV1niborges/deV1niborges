@@ -499,3 +499,15 @@ CODE WITH PURPOSE · INTERFACE WITH PERSONALITY · BUILT FOR THE WEB
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:0077FF,100:00E5FF&height=105&section=footer"/>
 
 </div>
+
+## `10 / CONTRIBUTION_SNAKE`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deV1niborges/deV1niborges/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deV1niborges/deV1niborges/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/deV1niborges/deV1niborges/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
